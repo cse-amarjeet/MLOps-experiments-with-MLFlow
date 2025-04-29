@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/8d45af60c51e4399af45b30ada19dba5/artifacts
+end_time: 1745925290342
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: 8d45af60c51e4399af45b30ada19dba5
+run_name: skillful-hawk-630
+run_uuid: 8d45af60c51e4399af45b30ada19dba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925286486
+status: 3
+tags: []
+user_id: amar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/4393abcec21249cea9538ccc02e38121/artifacts
+end_time: 1745925288503
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: 4393abcec21249cea9538ccc02e38121
+run_name: respected-rat-211
+run_uuid: 4393abcec21249cea9538ccc02e38121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925288499
+status: 3
+tags: []
+user_id: amar

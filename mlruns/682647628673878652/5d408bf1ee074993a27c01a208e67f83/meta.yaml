@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/5d408bf1ee074993a27c01a208e67f83/artifacts
+end_time: 1745925288518
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: 5d408bf1ee074993a27c01a208e67f83
+run_name: hilarious-donkey-469
+run_uuid: 5d408bf1ee074993a27c01a208e67f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925288514
+status: 3
+tags: []
+user_id: amar

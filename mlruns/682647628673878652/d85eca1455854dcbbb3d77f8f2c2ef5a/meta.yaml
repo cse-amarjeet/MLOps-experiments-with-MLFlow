@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/d85eca1455854dcbbb3d77f8f2c2ef5a/artifacts
+end_time: 1745925288534
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: d85eca1455854dcbbb3d77f8f2c2ef5a
+run_name: big-stoat-95
+run_uuid: d85eca1455854dcbbb3d77f8f2c2ef5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925288530
+status: 3
+tags: []
+user_id: amar

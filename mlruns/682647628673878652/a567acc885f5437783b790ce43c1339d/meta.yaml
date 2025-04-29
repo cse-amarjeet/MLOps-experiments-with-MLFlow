@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/a567acc885f5437783b790ce43c1339d/artifacts
+end_time: 1745925288508
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: a567acc885f5437783b790ce43c1339d
+run_name: suave-sloth-927
+run_uuid: a567acc885f5437783b790ce43c1339d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925288504
+status: 3
+tags: []
+user_id: amar

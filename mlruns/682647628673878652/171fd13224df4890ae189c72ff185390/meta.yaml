@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/171fd13224df4890ae189c72ff185390/artifacts
+end_time: 1745925288498
+entry_point_name: ''
+experiment_id: '682647628673878652'
+lifecycle_stage: active
+run_id: 171fd13224df4890ae189c72ff185390
+run_name: enthused-mule-392
+run_uuid: 171fd13224df4890ae189c72ff185390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745925288493
+status: 3
+tags: []
+user_id: amar

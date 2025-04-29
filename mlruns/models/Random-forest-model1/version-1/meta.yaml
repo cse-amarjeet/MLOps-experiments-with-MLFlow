@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745925634767
+current_stage: None
+description: ''
+last_updated_timestamp: 1745925634767
+name: Random-forest-model1
+run_id: 8d45af60c51e4399af45b30ada19dba5
+run_link: ''
+source: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/8d45af60c51e4399af45b30ada19dba5/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///home/amar/amar/MLOps/MLOps-experiments-with-MLFlow/mlruns/682647628673878652/8d45af60c51e4399af45b30ada19dba5/artifacts/random_forest
+user_id: null
+version: 1
