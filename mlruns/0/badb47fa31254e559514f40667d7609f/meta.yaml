@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/badb47fa31254e559514f40667d7609f/artifacts
+end_time: 1745919837420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: badb47fa31254e559514f40667d7609f
+run_name: welcoming-cub-417
+run_uuid: badb47fa31254e559514f40667d7609f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745919837168
+status: 4
+tags: []
+user_id: amar

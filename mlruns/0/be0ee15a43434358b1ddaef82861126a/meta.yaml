@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be0ee15a43434358b1ddaef82861126a/artifacts
+end_time: 1745919816544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be0ee15a43434358b1ddaef82861126a
+run_name: nebulous-yak-484
+run_uuid: be0ee15a43434358b1ddaef82861126a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745919816149
+status: 4
+tags: []
+user_id: amar

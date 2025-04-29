@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/120480c76fff498f9e77055a4bce7c94/artifacts
+end_time: 1745862663714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 120480c76fff498f9e77055a4bce7c94
+run_name: aged-foal-243
+run_uuid: 120480c76fff498f9e77055a4bce7c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745862663694
+status: 4
+tags: []
+user_id: amar
